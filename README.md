@@ -1,30 +1,53 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px">, I'm Francisco</h1>
+<h1 align="center">Hey there 👋, I'm Francisco</h1>
+<h3 align="center">A Software Developer from Argentina 🇦🇷</h3>
 
-## A Software Developer from Argentina
+<p align="center">
+  <img src="https://media3.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250"/>
+</p>
 
-<img align='right' src="https://media3.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250">
+---
 
-I'm a focused, dedicated Software Developer. I'm passionate about solving problems, learning new technologies and mastering the ones I already know.
+## 🚀 About Me
+- 💻 Software Developer passionate about **problem-solving** and **clean code**  
+- 🔭 Currently working at [**SimpleFI**](https://simplefi.xyz) and building side projects  
+- 📚 Main stack: **Python, C++, MongoDB**  
+- 🌱 Learning: **Docker & AWS**  
+- 🎓 Curious about: **Rust & Go**  
+- 🏗 Open-source contributor on [**GitHub**](https://github.com/franvinas)  
+- 📫 Reach me: **vinasfran@gmail.com**
 
-- 🔭 I’m currently working on [**Muvinai**](https://www.muvinai.com/)
-- 📚  My hard skill are: **Python, C++ and MongoDB**
-- 🌱 I’m currently learning **Docker and AWS**
-- 🎓 I’m looking forward to learn **Rust and Go**
-- 📫 How to reach me **vinasfran@gmail.com**
-- 📚 Professional projects in my [**Github**](https://github.com/franvinas) repository 
+---
 
-### Connect with me:
+## 🛠 Tech Stack
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" style="margin-right:10px;" src="https://cdn.simpleicons.org/linkedin/1cadfb" />][linkedin]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" style="margin-right:10px;" src="https://cdn.simpleicons.org/gmail/1cadfb" />][gmail]
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="40" height="40" />
+</p>
 
+---
 
-[linkedin]: https://www.linkedin.com/in/francisco-v
-[gmail]: mailto:vinasfran@gmail.com
+## 🤝 Connect with Me
 
-<br />
-<br />
+<p align="center">
+  <a href="https://www.linkedin.com/in/francisco-v">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+  </a>
+  <a href="mailto:vinasfran@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/franvinas">
+    <img src="https://cdn.simpleicons.org/github/FFFFFF" width="40" height="40"/>
+  </a>
+</p>
 
-[![Francisco Viñas github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=franvinas&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true%22)](https://github.com/franvinas)
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=franvinas&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franvinas&layout=compact&angs_count=8) -->
+---
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=franvinas&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true" />
+</p>
